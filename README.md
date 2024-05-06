@@ -27,5 +27,5 @@ Steps of devops or ci/cd pipeline:
 5. Deploy changes to staging
 6. DB/config changes
 7. QA testing
-8. Deploy to product (first in canary)
+8. Deploy to production (first in canary)
 9. Go live (continuous delivery) 
